@@ -29,10 +29,10 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    - Open your terminal and run the following command:  
-     `git clone https://github.com/AmulyaSKumar/VISUALIZER-ForStringMatching.git`
+     `git clone https://github.com/ixhitva/Visualizer-for-String-Matching-Using-Finite-Automata`
    
 2. **Navigate to the Project Directory**:
-   - `cd VISUALIZER-ForStringMatching`
+   - `cd Visualizer-for-String-Matching-Using-Finite-Automata`
 
 3. **Install Dependencies**:
    - Use npm to install the required packages:  
